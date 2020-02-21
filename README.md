@@ -5,3 +5,7 @@ Se requiere que el sistema se comunique con un nuevo tipo de motor, el cual no p
 
 # Diagrama
 https://drive.google.com/file/d/1Zy1z8Da84Tsxyg87QRkMfoGova39UMC7/view?usp=sharing
+
+
+# Documentación
+https://docs.google.com/document/d/1p9qGRYAYvlWn54C8Pvl0d5X4KKjPaOGLNG2_-b-8FPc/edit
